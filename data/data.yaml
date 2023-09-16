@@ -1,0 +1,5 @@
+train: C:\Users\zhong\Desktop\PyQt5-YOLOv5-master\data\train\train.txt
+val:  C:\Users\zhong\Desktop\PyQt5-YOLOv5-master\data\train\valid.txt
+
+nc: 1
+names: ['airplane']
