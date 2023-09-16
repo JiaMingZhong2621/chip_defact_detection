@@ -1,4 +1,4 @@
-本仓库的程序在[作者](https://github.com/Javacr/PyQt5-YOLOv5)的基础上实现，感谢其提供的技术支持。
+本仓库的基本程序来源于[链接](https://github.com/Javacr/PyQt5-YOLOv5)的基础上实现，感谢其提供的技术支持。
 
 **芯片缺陷检测画面：**
 
