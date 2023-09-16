@@ -1,7 +1,7 @@
-本仓库的程序在https://github.com/Javacr/PyQt5-YOLOv5的基础上实现，感谢作者提供的技术支持。
+本仓库的程序在[链接]([url](https://github.com/Javacr/PyQt5-YOLOv5))的基础上实现，感谢作者提供的技术支持。
 **芯片缺陷检测画面：**
 
-![本地图片](https://github.com/Javacr/PyQt5-YOLOv5/blob/v3.0/imgs/%E5%9B%BE%E7%89%87.png)
+![本地图片](https://github.com/JiaMingZhong2621/chip_defact_detection/blob/main/main.png)
 
 **功能：**
 
