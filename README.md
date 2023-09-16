@@ -1,5 +1,5 @@
 # chip_defact_detection
-本仓库的程序在(https://github.com/Javacr/PyQt5-YOLOv5)的基础上实现，感谢作者提供的技术支持。
+本仓库的程序在[https://github.com/Javacr/PyQt5-YOLOv5]的基础上实现，感谢作者提供的技术支持。
 **芯片缺陷检测画面：**
 
 ![本地图片](https://github.com/JiaMingZhong2621/chip_defact_detection/main.png)
